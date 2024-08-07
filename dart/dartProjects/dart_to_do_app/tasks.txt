@@ -1,0 +1,4 @@
+code an ecommerce app
+create a to do app
+learn classes in dart
+cook
